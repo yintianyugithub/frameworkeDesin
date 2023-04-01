@@ -1,9 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T08:36:41.576Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LL3tTcOtY2J4plZ90PQr" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T08:51:31.879Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HAqx-DsC1_IgrDN8Hfaf" version="21.1.2" type="github">
   <diagram name="第 1 页" id="cQxfvJxdY1xJ38MGjz2m">
-    <mxGraphModel dx="545" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="545" dy="1507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-18" value="用户&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="65" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-29" value="DNS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-31" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="35" y="60" as="sourcePoint" />
+            <mxPoint x="135" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-32" value="1.请求本地dns缓存&lt;br&gt;2.从dns解析域名访问IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H4VqjV41KdIA-kbAlkdW-31">
+          <mxGeometry x="0.5157" y="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-33" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="70" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-34" value="后端处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="75" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-35" value="nginx" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="50" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-36" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=6.857142857142857;startSize=3.7600000000000002;startWidth=12.081632653061224;endWidth=12.081632653061224;endSize=4.902857142857143;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="94.71" as="sourcePoint" />
+            <mxPoint x="420" y="94.71" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-39" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=6.857142857142857;startSize=3.7600000000000002;startWidth=12.081632653061224;endWidth=12.081632653061224;endSize=4.902857142857143;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="190" y="94.71" as="sourcePoint" />
+            <mxPoint x="260" y="94.71" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-44" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=6.857142857142857;startSize=3.7600000000000002;startWidth=12.081632653061224;endWidth=12.081632653061224;endSize=4.902857142857143;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="190" y="94.71" as="sourcePoint" />
+            <mxPoint x="260" y="94.71" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-45" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=6.857142857142857;startSize=3.7600000000000002;startWidth=12.081632653061224;endWidth=12.081632653061224;endSize=4.902857142857143;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="50" y="94.71" as="sourcePoint" />
+            <mxPoint x="120" y="94.71" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
