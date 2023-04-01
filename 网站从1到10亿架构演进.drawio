@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T09:32:18.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="P6FIRw954awWQrWsnbdD" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T09:45:52.838Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SsVVQ2rREivV8fWwCBsk" version="21.1.2" type="github">
   <diagram name="第 1 页" id="cQxfvJxdY1xJ38MGjz2m">
     <mxGraphModel dx="1261" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -287,6 +287,21 @@
         </mxCell>
         <mxCell id="H4VqjV41KdIA-kbAlkdW-113" value="服务层到数据库的高可用&lt;br&gt;数据库连接池保证高可用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1230" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-117" value="同构服务器的负载据均衡&lt;br&gt;hash法，轮询，随机&lt;br&gt;&lt;br&gt;异构服务器的负载均衡，同时保证过载保护&lt;br&gt;使用静态权重法&lt;br&gt;使用动态权重法理论上权重的分配是由调用方决定的&lt;br&gt;当服务响应超时快速减少权重，缓慢增加其他服务权重" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1270" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-118" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.161;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H4VqjV41KdIA-kbAlkdW-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="1480" as="sourcePoint" />
+            <mxPoint x="170" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-119" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="1480" as="sourcePoint" />
+            <mxPoint x="210" y="1480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
