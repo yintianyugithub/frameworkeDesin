@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T09:26:34.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IitAs4uP8QfBH8KWdSTe" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T09:28:47.842Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aIknK-IdxHQwh2oBI2zt" version="21.1.2" type="github">
   <diagram name="第 1 页" id="cQxfvJxdY1xJ38MGjz2m">
-    <mxGraphModel dx="1372" dy="1507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,6 +284,9 @@
         </mxCell>
         <mxCell id="H4VqjV41KdIA-kbAlkdW-112" value="redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="35" y="1140" width="45" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H4VqjV41KdIA-kbAlkdW-113" value="服务层到数据库的高可用&lt;br&gt;数据库连接池保证高可用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1230" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
