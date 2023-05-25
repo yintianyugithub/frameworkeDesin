@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T02:41:02.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.3" etag="DIe-AtQ-3hSUS5E4jWnk" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T03:05:59.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6hiLhZ8BRIJ6lEcJs273" version="21.3.3" type="github">
   <diagram name="第 1 页" id="x3-1WD0VrlCuzrHKrEJD">
-    <mxGraphModel>
+    <mxGraphModel dx="1266" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vHHQLd1p7jeEhkGz5pND-26" value="创建日期 召回批次号 人数 召回奖励ID 生效时间 截止时间 短信状态 短信内容 短信发送时间 召回批次备注&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vHHQLd1p7jeEhkGz5pND-27" value="召回奖品award_id&amp;nbsp;&lt;br&gt;截止时间end_time&lt;br&gt;召回用户ID user_id&lt;br&gt;短信发送时间 sms_send_time&lt;br&gt;召回批次 p_id&lt;br&gt;召回批次备注p_notes&lt;br&gt;短信文件内容 sms_content&lt;br&gt;created_at&lt;br&gt;udpaated_at" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vHHQLd1p7jeEhkGz5pND-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vHHQLd1p7jeEhkGz5pND-27" target="vHHQLd1p7jeEhkGz5pND-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
