@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T12:21:20.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5NKFN9RUiLlRTvJ_ap9T" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T12:34:15.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EBPlvRQVIqEl_CMgRBFg" version="21.3.4" type="github">
   <diagram name="第 1 页" id="Fbihhg92MvRgJRtighSf">
     <mxGraphModel dx="1246" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,8 +80,8 @@
         <mxCell id="SIuLATBYy6BGo_daEX-A-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SIuLATBYy6BGo_daEX-A-32" target="SIuLATBYy6BGo_daEX-A-35" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIuLATBYy6BGo_daEX-A-32" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="110" width="176" height="60" as="geometry" />
+        <mxCell id="SIuLATBYy6BGo_daEX-A-32" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;service/app_conf.go&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 9.8pt;&quot;&gt;AppRankListTypeConf2中声明mapping&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="838.5" y="110" width="293" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SIuLATBYy6BGo_daEX-A-41" target="SIuLATBYy6BGo_daEX-A-32" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -90,27 +90,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-35" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="200" width="176" height="60" as="geometry" />
+          <mxGeometry x="897" y="200" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SIuLATBYy6BGo_daEX-A-37" target="SIuLATBYy6BGo_daEX-A-39" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-37" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="290" width="176" height="60" as="geometry" />
+          <mxGeometry x="897" y="290" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SIuLATBYy6BGo_daEX-A-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SIuLATBYy6BGo_daEX-A-39" parent="1">
+        <mxCell id="SIuLATBYy6BGo_daEX-A-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="SIuLATBYy6BGo_daEX-A-39" parent="1" target="SIuLATBYy6BGo_daEX-A-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="928" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="380" width="176" height="60" as="geometry" />
+          <mxGeometry x="897" y="380" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="490" width="176" height="60" as="geometry" />
+          <mxGeometry x="897" y="490" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SIuLATBYy6BGo_daEX-A-41" value="service/app_conf.go" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="10" width="176" height="60" as="geometry" />
+        <mxCell id="SIuLATBYy6BGo_daEX-A-41" value="rpc&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;OnValueChange&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;STOnValueChangeReq&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#080808&quot;&gt;)&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px; background-color: rgb(255, 255, 255); color: rgb(0, 51, 179);&quot;&gt;returns&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;STOnValueChangeRsp&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px; background-color: rgb(255, 255, 255);&quot;&gt;);&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="10" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SIuLATBYy6BGo_daEX-A-43" target="SIuLATBYy6BGo_daEX-A-46" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-60" value="rank服务&lt;br&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;MingRiGeWang干啥的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="868" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="915" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIuLATBYy6BGo_daEX-A-63" target="SIuLATBYy6BGo_daEX-A-52">
           <mxGeometry relative="1" as="geometry" />
