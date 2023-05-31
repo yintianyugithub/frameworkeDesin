@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T13:35:16.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Cfa3jqURzFuG5ffb_UiN" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T02:10:39.760Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="T5W7yUIceksptL9tF2-X" version="21.3.4" type="github">
   <diagram name="第 1 页" id="Fbihhg92MvRgJRtighSf">
     <mxGraphModel dx="1038" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,6 +167,9 @@
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-82" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GetRankListTmpByCache&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;618榜单需要开发一个这个接口吗&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="855" y="440" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SIuLATBYy6BGo_daEX-A-83" value="task收到发送礼物和充值的message&lt;br&gt;&lt;br&gt;rank处理数据和存储数据&lt;br&gt;&lt;br&gt;ocean提供客户端接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-702" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
