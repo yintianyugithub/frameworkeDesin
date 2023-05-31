@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T02:46:56.121Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rSmb0kuCjZXcDJT1XcW7" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T11:10:14.465Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="v-BFIwi55ufAgDaG7hox" version="21.3.4" type="github">
   <diagram name="第 1 页" id="Fbihhg92MvRgJRtighSf">
     <mxGraphModel dx="1038" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="SIuLATBYy6BGo_daEX-A-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIuLATBYy6BGo_daEX-A-9" target="SIuLATBYy6BGo_daEX-A-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SIuLATBYy6BGo_daEX-A-9" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;Call&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;Check具体实现验证逻辑&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SIuLATBYy6BGo_daEX-A-9" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;Call&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;Check具体实现验证逻辑&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFCC;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIuLATBYy6BGo_daEX-A-10">
@@ -170,6 +170,15 @@
         </mxCell>
         <mxCell id="SIuLATBYy6BGo_daEX-A-83" value="task收到发送礼物和充值的message&lt;br&gt;&lt;br&gt;rank处理数据和存储数据&lt;br&gt;&lt;br&gt;ocean提供客户端接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="-702" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SIuLATBYy6BGo_daEX-A-84" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;EActivityCategory_EAC_ClubNewPower啥意思&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="688" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIuLATBYy6BGo_daEX-A-85" value="兑换0.1积分怎么算&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="728" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIuLATBYy6BGo_daEX-A-86" value="活动奖励领取&lt;br&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;ActivityAwardGrant&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;font-size: 9.8pt;&quot;&gt;ActivityAwardGrantDetails&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
