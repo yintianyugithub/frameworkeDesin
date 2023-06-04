@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T01:29:02.055Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qiAkpUI386OxnW0lbxFd" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T08:07:13.383Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9mhfGfYydk5bddZ3sfAM" version="21.2.9" type="github">
   <diagram name="第 1 页" id="Fbihhg92MvRgJRtighSf">
     <mxGraphModel dx="1782" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,6 +185,9 @@
         </mxCell>
         <mxCell id="nHkY1eO5tsopHFkKs1ia-3" value="http://10.0.186.6:8353/v1/ping?name=ActivityHanlerExec&amp;amp;activityID=113&lt;br&gt;测试脚本接口&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="670" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHkY1eO5tsopHFkKs1ia-5" value="开gorutine不用等待结束吗？&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
